@@ -1,0 +1,33 @@
+body {
+    margin: 0 !important;
+}
+.main {
+    height: 100vh;
+    width: 100vw;
+    background-color: #EFE3D8;
+}
+
+
+
+.img {
+    height: 90vh;
+
+}
+
+.img-con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.btn {
+    height: 7vh;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
